@@ -16,6 +16,12 @@ Real-time lightweight CPU-based video crime detection system using ONNX + SVM + 
 **AegisX** is a real-time, CPU-efficient crime detection system that uses MC3-based spatiotemporal features and an optimized SVM classifier to detect crime in CCTV-styled video footage.  
 No GPUs. No YOLO. Just precision-packed surveillance tech that’s sleek, fast, and ready to deploy.
 
+💡 **It specifically detects crimes such as:**
+- Fighting  
+- Vandalism  
+- Assault  
+- Robbery
+
 > ⚠️ This model performs best on **CCTV-styled surveillance footage** and **not on mobile phone–recorded or cinematic videos**.
 
 ---
@@ -28,6 +34,17 @@ No GPUs. No YOLO. Just precision-packed surveillance tech that’s sleek, fast, 
 - ✅ Telegram alerts with screenshots if crime persists for >5 seconds
 - ✅ Lightweight, fast & deployable
 - ✅ Custom ROC, PR Curve, and Confusion Matrix visualizations
+
+---
+
+## 🔧 System Pipeline
+
+1. **Input:** CCTV-style video stream  
+2. **Frame Sampling:** Temporal frames extracted  
+3. **Feature Extraction:** MC3 spatiotemporal backbone (ONNX)  
+4. **Classification:** Optimized SVM predicts crime/no-crime  
+5. **Alert System:** Telegram bot triggers screenshot + alert if crime persists  
+6. **Visualization:** Plots ROC, PR, Confusion Matrix, etc.
 
 ---
 
@@ -55,9 +72,6 @@ No GPUs. No YOLO. Just precision-packed surveillance tech that’s sleek, fast, 
 <p align="center">
   <img src="assets/crime detected gif last.gif" width="600" alt="Crime Detection Demo">
 </p>
-
-=======
-
 
 ---
 
