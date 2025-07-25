@@ -58,9 +58,7 @@ No GPUs. No YOLO. Just precision-packed surveillance tech that’s sleek, fast, 
 
 =======
 
-> 🔽 Full video: [Watch the demo (MP4)](lasthope/assets/crimedetected.mp4)
 
->>>>>>> 162ea0e (Merged remote changes and added demo video)
 ---
 
 ## 📂 Dataset Used
