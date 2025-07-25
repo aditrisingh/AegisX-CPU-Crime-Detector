@@ -53,7 +53,7 @@ No GPUs. No YOLO. Just precision-packed surveillance tech that’s sleek, fast, 
 ## 🎥 Demo Video
 
 <p align="center">
-  <img src="assets/crime detected last.gif" width="600" alt="Crime Detection Demo">
+  <img src="assets/crime detected gif last.gif" width="600" alt="Crime Detection Demo">
 </p>
 
 =======
