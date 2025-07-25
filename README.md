@@ -2,7 +2,7 @@
 Real-time lightweight CPU-based video crime detection system using ONNX + SVM + Telegram alert
 
 <p align="center">
-  <img src="lasthope/assets/Aegis X.png" width="180" alt="AegisX Logo">
+  <img src="assets/Aegis X.png" width="180" alt="AegisX Logo">
 </p>
 
 <h1 align="center">🛡️ AegisX: CPU-based Real-time Crime Detection from CCTV Footage</h1>
@@ -34,10 +34,10 @@ No GPUs. No YOLO. Just precision-packed surveillance tech that’s sleek, fast, 
 ## 📊 Results (Visualizations)
 
 <p align="center">
-  <img src="lasthope/assets/roc_curve.png" width="400" alt="ROC Curve"> 
-  <img src="lasthope/assets/precision_recall_curve.png" width="400" alt="PR Curve"><br>
-  <img src="lasthope/assets/confusion_matrix.png" width="400" alt="Confusion Matrix"> 
-  <img src="lasthope/assets/metrics_barplot.png" width="400" alt="Metrics Bar Plot"> 
+  <img src="assets/roc_curve.png" width="400" alt="ROC Curve"> 
+  <img src="assets/precision_recall_curve.png" width="400" alt="PR Curve"><br>
+  <img src="assets/confusion_matrix.png" width="400" alt="Confusion Matrix"> 
+  <img src="assets/metrics_barplot.png" width="400" alt="Metrics Bar Plot"> 
 </p>
 
 ---
@@ -45,7 +45,7 @@ No GPUs. No YOLO. Just precision-packed surveillance tech that’s sleek, fast, 
 ## 📷 Telegram Bot Integration
 
 <p align="center">
-  <img src="lasthope/assets/telegram alert.jpg" width="500" alt="Telegram Screenshot">
+  <img src="assets/telegram alert.jpg" width="500" alt="Telegram Screenshot">
 </p>
 
 ---
