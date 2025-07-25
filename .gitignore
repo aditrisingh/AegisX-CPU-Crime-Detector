@@ -1,0 +1,7 @@
+__pycache__/
+*.pt
+*.onnx
+*.joblib
+*.mp4
+.env
+*.pyc
